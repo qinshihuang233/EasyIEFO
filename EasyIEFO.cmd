@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAnk
-::fBw5plQjdG8=
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSDk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpSI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbAs=
-::ZQ05rAF9IAHYFVzEqQIVKQhNZSGkEws=
-::eg0/rx1wNQPfEVWB+kM9LVsJDCGDL3KTI5Mzpuv264o=
-::fBEirQZwNQPfEVWB+kM9LVsJDCGDL3KTI5MziA==
-::cRolqwZ3JBvQF1fEqQK08PvSgNoH06Q+3XCbJgh+Ah8CXp2aiBS3pn5dInQLww+WAI5imXeqLJ7fSCSJ297dm8Uoju1U
-::dhA7uBVwLU+EWDk=
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATElA==
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFDpQQQ2MNXiuFLQI5/rHy++UqVkSRN4aeZzC85GoD9w261b9XLML+ToJyoYOBQ8WewquDg==
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 echo EasyIEFO
 echo   -version 1.0.0 By  Bilibili @sheep_003 ^& ∂∂“Ù @sheep_003 ^(UID: 41145878797^)
